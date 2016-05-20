@@ -9,7 +9,6 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [5 more ways to start learning how to code right now for free](http://thenextweb.com/dd/2012/02/02/5-more-ways-to-start-learning-how-to-code-right-now-for-free/)
 *   [Stypi - good for remote pairing](http://www.stypi.com/yy0ygna2)
 *   [$ cheat browse http://cheat.errtheblog.com](http://cheat.errtheblog.com/)
-*   [Developing Apps for iOS (SD)](http://itunes.apple.com/itunes-u/developing-apps-for-ios-sd/id395631522)
 *   [Google Developers - Your First Progressive Web App] (https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 *   [Free Code Camp] (https://www.freecodecamp.com/)
