@@ -52,7 +52,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 
 #####iOS
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
-  *   [Developing iOS 8 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+  *   [Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
   *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
 *   [Flatiron iOS pre-work:](https://learn.co/join/ios-prework)
 *   Code School's [Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
@@ -61,8 +61,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   *  [CodePath iOS Guides](http://guides.codepath.com/ios)
   *  [CodePath iOS Guides for Designers](http://guides.codepath.com/ios/Designer-Guides)
   *  [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
-*   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition):](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X/ref=sr_1_1?s=books&ie=UTF8&qid=1440459142&sr=1-1&keywords=objective+c&pebp=1440459145149&perid=0AX7W4FGDD464TBJAAYZ)
-*   [iOS Programming: The Big Nerd Ranch Guide (4th Edition):](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0321942051)
+*   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- link to book on Amazon
+*   [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- link to book on Amazon
 
 #####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
