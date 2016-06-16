@@ -64,6 +64,19 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- link to book on Amazon
 *   [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- link to book on Amazon
 
+#####Android
+* [Android Udacity Free Courses](https://www.udacity.com/courses/android)
+* [Android Documentation](https://developer.android.com/index.html)
+* [Android Developers Blog](http://android-developers.blogspot.com/)
+* [Android Developers Youtube Channel](https://www.youtube.com/user/androiddevelopers)
+* [Testing, Build and Architecture](https://caster.io/free-episodes-list/)
+* [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture)
+* Books
+   *  [Android Programming](https://www.bignerdranch.com/we-write/android-programming/)
+   *  [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/)
+   *  [Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184)
+   *  [Programming Android](http://www.amazon.com/dp/1449389694?tag=top-books-cs-20)
+
 #####Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
