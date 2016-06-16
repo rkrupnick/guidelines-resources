@@ -164,6 +164,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [Smalltalk: An Introduction to Application Development Using VisualWorks](https://books.google.co.in/books?id=zalQAAAAMAAJ&q=smalltalk&dq=smalltalk&hl=en&sa=X&ved=0CCgQ6AEwAmoVChMIw63Vo6CpyAIV0HGOCh3S2Alf/)
 * [Pharo MOOC: Live Object Programming in Pharo ](https://www.fun-mooc.fr/courses/inria/41010/session01/about)
 * [Free online smalltalk books](http://stephane.ducasse.free.fr/FreeBooks.html)
+* [Pharo Books](http://files.pharo.org/books/)
 
 #####SQL
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
