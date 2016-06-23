@@ -30,6 +30,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   *   [C++ FAQ](http://www.stroustrup.com/bs_faq.html)
   *   [applications](http://www.stroustrup.com/applications.html) written in C++
   *   some [C++ compilers](http://www.stroustrup.com/compilers.html)
+*   YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
 
 #####Go
 *   [Go Language Tour](http://tour.golang.org)
