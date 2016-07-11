@@ -1,6 +1,6 @@
 Hi! Feel free to contribute new links and resources to this document. Please add your resource under the appropriate heading, creating new ones where necessary. It'd also be great if you added a few words describing your resource! For example: if it's a paid resource, what format it's in, if it's particularly good for beginner or advanced people, etc.
 
-#####General Programming
+##### General Programming
 *   [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 *   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
 *   [Also, Why I'm learning to code](http://also.roybahat.com/post/11574823708/why-im-learning-to-code)
@@ -13,7 +13,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 *   [Free Code Camp] (https://www.freecodecamp.com/)
 
-#####C/C++
+##### C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
 *   [Learn C The Hard Way](http://c.learncodethehardway.org/)
 *   [Google's C++ Class](https://developers.google.com/edu/c++/)
@@ -26,13 +26,13 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   * [6.S096 Effective Programming in C and C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/) (taught January IAP 2014)
 *  [C++ Today](http://www.oreilly.com/programming/free/c++-today.csp) (2015) - free O'Reilly eBook
 *   [Infographic: C++ Facts](http://blog.jetbrains.com/clion/2015/07/infographics-cpp-facts-before-clion/) (2015)
-*   [Bjarne Stroustrup's Homepage]() (creator of C++) 
+*   [Bjarne Stroustrup's Homepage]() (creator of C++)
   *   [C++ FAQ](http://www.stroustrup.com/bs_faq.html)
   *   [applications](http://www.stroustrup.com/applications.html) written in C++
   *   some [C++ compilers](http://www.stroustrup.com/compilers.html)
 *   YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
 
-#####Go
+##### Go
 *   [Go Language Tour](http://tour.golang.org)
 *   [Effective Go](https://golang.org/doc/effective_go.html)
 *   [An Introduction to programming in Go](https://www.golang-book.com/books/intro)
@@ -43,7 +43,12 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [GoBridge](http://golangbridge.org/)
 *   [Go Forum](https://forum.golangbridge.org/categories)
 
-#####HTML/CSS
+##### Haskell
+*	[How I Start: Haskell](http://howistart.org/posts/haskell/1)
+*	[Haskell Wikibook](https://en.wikibooks.org/wiki/Haskell)
+*	[Haskell Basics](https://www.schoolofhaskell.com/school/starting-with-haskell/introduction-to-haskell/1-haskell-basics)
+
+##### HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
@@ -51,7 +56,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Udemy: Learn the Foundations of HTML] (https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
 *   [Learn to Code Advanced HTML & CSS] (http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 
-#####iOS
+##### iOS
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
   *   [Developing iOS 9 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
   *   [Developing iOS 7 Apps with Objective-C](https://itunes.apple.com/us/course/developing-ios-7-apps-for/id733644550)
@@ -65,7 +70,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- link to book on Amazon
 *   [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- link to book on Amazon
 
-#####Android
+##### Android
 * [Android Udacity Free Courses](https://www.udacity.com/courses/android)
 * [Android Documentation](https://developer.android.com/index.html)
 * [Android Developers Blog](http://android-developers.blogspot.com/)
@@ -78,7 +83,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
    *  [Head First Android Development](http://www.amazon.com/Head-First-Android-Development-Griffiths/dp/1449362184)
    *  [Programming Android](http://www.amazon.com/dp/1449389694?tag=top-books-cs-20)
 
-#####Java
+##### Java
 *   [Head First Java](http://www.headfirstlabs.com/books/hfjava/)
 *   [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 *   [CodingBat Java practice problems](http://codingbat.com/java)
@@ -90,7 +95,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Teaching Kids Programming](http://teachingkidsprogramming.org/) Designed to introduce kids ages 10-14 to computational thinking with logo-like TKPJava library, but fun for adult learners as well.
 *   [Programming With Java: A Multimedia Approach] (http://www.jblearning.com/catalog/9781449638610/) Learn Java using programs that draw graphics and images, perform animation, read and play audio files, and display video. Suitable for beginners.
 
-#####Javascript
+##### Javascript
 * [Code academy](http://www.codecademy.com/en/tracks/javascript)
 * [Nodeschool](http://nodeschool.io)
 * [Exercism](http://www.exercism.io/)
@@ -109,14 +114,14 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Practical Javascript](http://practicaljavascript.net) Free Javascript course, good for beginners to get a good grounding in the basics. Great analogies for arrays, objects & loops. Also has a companion [Facebook group](https://www.facebook.com/groups/514043678767094/) and a weekly online study/q&a session.
 
-#####PHP
+##### PHP
 * [Codecademy’s PHP course](https://www.codecademy.com/learn/php)
-* [Learn PHP](http://www.learn-php.org) 
-* [PHP the right way](http://www.phptherightway.com) 
+* [Learn PHP](http://www.learn-php.org)
+* [PHP the right way](http://www.phptherightway.com)
 * [Laracasts series on Laravel](https://laracasts.com/series/laravel-5-from-scratch) a great way to learn modern PHP development practices
 * [Laracasts series on PHP7](https://laracasts.com/series/php7-up-and-running)
 
-#####Python
+##### Python
 *   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 *   [Python Introduction - Google's Python Class](http://code.google.com/edu/languages/google-python-class/introduction.html)
 *   [Learn Python with Games](http://www.checkio.org/)
@@ -132,7 +137,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
     * [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Intro to Flask, Test Driven Development, and jQuery
 *   [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
 
-#####Ruby
+##### Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
 *   [Dev bootcamp - by bullets](http://devbootcampbullets.tumblr.com/)
 *   [Ruby in 100 minutes - Jumpstart Lab Curriculum](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html)
@@ -155,18 +160,18 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [One month Rails $$](https://onemonth.com/courses/one-month-rails)
 *   [The Odin Project: Learn Web Development for Free using Ruby on Rails](http://www.theodinproject.com)
 
-#####Scratch
+##### Scratch
 * [Learn Scratch in 10 minutes] (https://scratch.mit.edu/projects/31407152/)
 * [Scratch Lessons] (http://scratched.gse.harvard.edu/resources/scratch-lessons-shall-we-learn-scratch-programming-tweens)
 * [edX - Programming in Scratch] (https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
 
-#####Selenium
+##### Selenium
 *   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
 *   [Selenium Tutorial by ToolsQA](http://www.toolsqa.com/selenium-webdriver)
 *   [Selenium Automation Practice Form](http://www.toolsqa.com/automation-practice-form)
 *   [The Web Testing Handbook](http://www.amazon.com/The-Testing-Handbook-Steven-Splaine/dp/0970436300)
 
-#####Smalltalk
+##### Smalltalk
 
 * [GNU Smalltalk User's Guide](https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html)
 * [smalltalk dot org](http://www.smalltalk.org/smalltalk/learning.html)
@@ -180,23 +185,23 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [Free online smalltalk books](http://stephane.ducasse.free.fr/FreeBooks.html)
 * [Pharo Books](http://files.pharo.org/books/)
 
-#####SQL
+##### SQL
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
 *   Khan Academy's [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-*   [Try SQL - Code School ](https://www.codeschool.com/courses/try-sql) - Learn basic database manipulation skills using the SQL programming language. Ins and Outs of DBs, Managing Data, Managing DBs and Tables. 
+*   [Try SQL - Code School ](https://www.codeschool.com/courses/try-sql) - Learn basic database manipulation skills using the SQL programming language. Ins and Outs of DBs, Managing Data, Managing DBs and Tables.
 *   [Common MySQL Queries](http://www.artfulsoftware.com/infotree/queries.php)
 
-#####Algorithms
+##### Algorithms
 *   [Project Euler](http://projecteuler.net/)
 *   [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
 
-#####Data
+##### Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
 *   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
 *   [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
 *   [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
 
-#####Game Development
+##### Game Development
 *   [talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
 *   [Extra Credits game design YouTube vodcast](https://www.youtube.com/user/ExtraCreditz/playlists)
 *   [Gamasutra ("The Art & Business of Making Games") postmortems](http://www.gamasutra.com/features/postmortem)
@@ -208,12 +213,12 @@ Hi! Feel free to contribute new links and resources to this document. Please add
     * [love2d.org](love2d.org) -- definitely start with this one -- Lua
     * [unity3d.com](unity3d.com) -- most commonly used at game jams, etc
     * [ogre3d.org](ogre3d.org) -- a library / graphics engine -- C++
-    * bulletphysics -- a library -- C++ 
+    * bulletphysics -- a library -- C++
 *   Artwork available online under a [Creative Commons License](http://www.lostgarden.com/2007/03/lost-garden-license.html) (more fun to make game with cool graphics):
     * Daniel Cook, Lost Garden
         * http://www.lostgarden.com/search/label/free%20game%20graphics
 
-#####Git
+##### Git
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
 *   [Pro Git](http://git-scm.com/book)
 *   [Atlassian Git Tutorials](https://www.atlassian.com/git)
@@ -229,7 +234,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 
 
 
-#####InfoSec
+##### InfoSec
 * Training:
   * [Hacksplaining - security training for developers] (https://www.hacksplaining.com/)
 * Reddit /r/netsec/ resources:
@@ -257,12 +262,12 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - awesome blog on hacking embedded devices
 
 
-#####Internet of Things (IoT)
+##### Internet of Things (IoT)
 * AWS Loft Talk [An Engineer's Tour of the Internet of Things](https://www.youtube.com/watch?v=yElH0mGzEkE) (Sep 2015 video)
 * [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
 * [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
 
-#####Misc
+##### Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
 *   [VIM Adventures](http://vim-adventures.com/)
@@ -270,7 +275,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
 
-#####Schools
+##### Schools
 *   [Khan Academy](http://www.khanacademy.org/#computer-science)
 *   [Learn Web Design, Web Development, and iOS Development](http://teamtreehouse.com/)
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
