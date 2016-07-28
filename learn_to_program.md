@@ -241,6 +241,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   * [Getting Started in Information Security](https://www.reddit.com/r/netsec/wiki/start) (Reddit wiki)
   * [Hey we run five InfoSec consulting companies - Ask Us Anything (2014 edition) ](https://www.reddit.com/r/netsec/comments/202bsf/hey_guys_we_run_five_infosec_consulting_companies/?sort=old&limit=500) (Reddit AMA)
   * [Hey we run five InfoSec consulting companies - Ask Us Anything (2015 edition)](https://www.reddit.com/r/netsec/comments/3k9ul8/we_run_five_infosec_consulting_companies_ask_us/?sort=qa&limit=500) (Reddit AMA)
+  * [We are Kaspersky Lab's Global Research & Analysis Team (GReAT) - Ask Us Anything (2016)](https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/?limit=500) (Reddit AMA)
 * Hacking Challenges / Demo Apps
     * [OverTheWire WarGames](http://overthewire.org/wargames/)
     * [Hack this site] (https://www.hackthissite.org/)
@@ -260,6 +261,11 @@ Hi! Feel free to contribute new links and resources to this document. Please add
     * [Bug Bounties 101 - Getting Started](https://fin1te.net/articles/bug-bounties-101-getting-started/)
     * [Bugcrowd blog](https://blog.bugcrowd.com/) - for bug bounty community
 * [/dev/ttys0 Blog](http://www.devttys0.com/blog/) - awesome blog on hacking embedded devices
+* Kaspersky Labs:
+    * Kaspersky Labs experts' technical research, analysis, and thoughts:  https://securelist.com
+    * Kaspersky Labs' tracker for APTs (Advanced Persistent Threats):  https://apt.securelist.com
+    * https://securelist.com/blog/opinions/67928/the-art-of-finding-cyber-dinosaur-skeletons
+* Creative Commons licensed training material for computer security:  http://opensecuritytraining.info
 
 
 ##### Internet of Things (IoT)
