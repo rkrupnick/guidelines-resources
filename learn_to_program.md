@@ -53,8 +53,10 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [W3Schools Online Web Tutorials](http://www.w3schools.com/)
 *   [BuildingWebApps.com](http://www.buildingwebapps.com/)
 *   [Build Cross Browser Extensions in Minutes - Crossrider.com](http://crossrider.com/)
-*   [Udemy: Learn the Foundations of HTML] (https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
-*   [Learn to Code Advanced HTML & CSS] (http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+*   [Udemy: Learn the Foundations of HTML](https://blog.udemy.com/learn-html-learn-the-foundations-of-html/)
+*   [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
+*   [Flexbox Froggy](http://flexboxfroggy.com/) - game to learn how to use flexbox
+*   [CSS Diner](http://flukeout.github.io/) - game to learn CSS selectors
 
 ##### iOS
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
@@ -231,7 +233,6 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 *   [Github Guides](https://guides.github.com/)
 *   [Git the simple Guide](http://rogerdudler.github.io/git-guide/)
-
 
 
 ##### InfoSec
