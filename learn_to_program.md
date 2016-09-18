@@ -274,6 +274,20 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [BuildItSecure.ly](http://builditsecure.ly/#resources) - security researchers curating a learn-how-to-build-IoT-securely site ([DEF CON talk introducing initiative](https://youtu.be/WHdU4LutBGU) - initiative mentioned at 37:36)
 * [http://iot.eclipse.org/getting-started](http://iot.eclipse.org/getting-started) - includes Connected Greenhouse tutorial (uses Java language)
 
+---
+~**System Administration**~
+
+* [Ops School Curriculum](http://www.opsschool.org)
+
+#####Docker
+* [Docker Tutorials and Labs](https://github.com/docker/labs) -- community-maintained in Docker's own GitHub account
+* Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
+* Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
+  * fork this repo down to your computer, and then open this file in a browser:  https://github.com/jpetazzo/orchestration-workshop/blob/master/www/htdocs/index.html
+* [Docker, Linux Containers (LXC), and Security](http://www.slideshare.net/jpetazzo/docker-linux-containers-lxc-and-security) slides from 2014 talk
+
+---
+
 ##### Misc
 *   [Code School - Discover Chrome DevTools](http://discover-devtools.codeschool.com/)
 *   [Linux Fundamentals, Part 1](http://www.funtoo.org/wiki/Linux_Fundamentals,_Part_1)
