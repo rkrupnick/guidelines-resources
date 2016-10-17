@@ -2,6 +2,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 
 ##### General orientation to programming and careers
 *   [https://techprep.fb.com](Tech Prep) - get started - suitable for all ages
+
 ##### General Programming
 *   [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
 *   [5 Ways To Learn Code From The Comfort Of Your Own Browser | TechCrunch](http://techcrunch.com/2012/08/21/5-ways-to-learn-code-from-the-comfort-of-your-own-browser)
