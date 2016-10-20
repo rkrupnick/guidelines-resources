@@ -15,6 +15,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Google Developers - Your First Progressive Web App] (https://developers.google.com/web/fundamentals/getting-started/?hl=en)
 *   [Computer Science: Free Courses](http://www.openculture.com/computer_science_free_courses)
 *   [Free Code Camp] (https://www.freecodecamp.com/)
+*   [DevDocs](http://devdocs.io)
+*   [CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 
 ##### C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
@@ -60,6 +62,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Learn to Code Advanced HTML & CSS](http://learn.shayhowe.com/advanced-html-css/performance-organization/)
 *   [Flexbox Froggy](http://flexboxfroggy.com/) - game to learn how to use flexbox
 *   [CSS Diner](http://flukeout.github.io/) - game to learn CSS selectors
+*   [HTML5 Course from W3C](https://www.edx.org/xseries/html5-w3c)
 
 ##### iOS
 *   Paul Hegarty's Stanford class CS193p on iTunes U:
@@ -177,7 +180,6 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [The Web Testing Handbook](http://www.amazon.com/The-Testing-Handbook-Steven-Splaine/dp/0970436300)
 
 ##### Smalltalk
-
 * [GNU Smalltalk User's Guide](https://www.gnu.org/software/smalltalk/manual/html_node/Tutorial.html)
 * [smalltalk dot org](http://www.smalltalk.org/smalltalk/learning.html)
 * [Computer Programming using GNU Smalltalk](http://www.canol.info/books/computer_programming_using_gnu_smalltalk/)
@@ -199,6 +201,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 ##### Algorithms
 *   [Project Euler](http://projecteuler.net/)
 *   [Visualgo](http://visualgo.net/) - Animated visualizations for algorithms
+*   [Big-O Cheat Sheet](http://bigocheatsheet.com/)
 
 ##### Data
 *   [Code School - Try R](https://www.codeschool.com/courses/try-r)
@@ -305,3 +308,4 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Codecademy.com](http://www.codecademy.com/#!/exercise/0)
 *   [Stanford School of Engineering](http://see.stanford.edu/see/courseinfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)
 *   [MIT OpenCourseWare](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/video-lectures/)
+*   [edX](https://www.edx.org/)
