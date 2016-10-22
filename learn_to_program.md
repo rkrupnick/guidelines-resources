@@ -144,6 +144,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
     * [Discover Flask](http://discoverflask.com) - full stack web development with flask
     * [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Intro to Flask, Test Driven Development, and jQuery
 *   [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
+*   [Udacity - Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - In this free course you will learn the fundamentals of back-end web development and build a data-driven web app with Python.
 
 ##### Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
