@@ -37,6 +37,9 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   *   some [C++ compilers](http://www.stroustrup.com/compilers.html)
 *   YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
 
+#####Containers
+ *  [Kubernetes Basics - Interactive](http://kubernetes.io/docs/tutorials/kubernetes-basics/) Official self-paced walkthrough tutorial
+
 ##### Go
 *   [Go Language Tour](http://tour.golang.org)
 *   [Effective Go](https://golang.org/doc/effective_go.html)
@@ -197,7 +200,6 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   Codecademy's [Learn SQL](https://www.codecademy.com/courses/learn-sql) - uses sqlite, so good intro, but will be slightly different if you move to MySQL, Oracle SQL, SQL Server, etc
 *   Khan Academy's [Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 *   [Try SQL - Code School ](https://www.codeschool.com/courses/try-sql) - Learn basic database manipulation skills using the SQL programming language. Ins and Outs of DBs, Managing Data, Managing DBs and Tables.
-*   [Common MySQL Queries](http://www.artfulsoftware.com/infotree/queries.php)
 
 ##### Algorithms
 *   [Project Euler](http://projecteuler.net/)
@@ -239,8 +241,6 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Understanding Git Concepts](http://www.sbf5.com/~cduan/technical/git/)
 *   [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 *   [Github Guides](https://guides.github.com/)
-*   [Git the simple Guide](http://rogerdudler.github.io/git-guide/)
-
 
 ##### InfoSec
 * Training:
