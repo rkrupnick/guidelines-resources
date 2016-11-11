@@ -1,7 +1,7 @@
 Hi! Feel free to contribute new links and resources to this document. Please add your resource under the appropriate heading, creating new ones where necessary. It'd also be great if you added a few words describing your resource! For example: if it's a paid resource, what format it's in, if it's particularly good for beginner or advanced people, etc.
 
 ##### General orientation to programming and careers
-*   [https://techprep.fb.com](Tech Prep) - get started - suitable for all ages
+*   [Tech Prep](https://techprep.fb.com) - get started - suitable for all ages
 
 ##### General Programming
 *   [Learn to Program, by Chris Pine](http://pine.fm/LearnToProgram/)&nbsp;-&nbsp;[http://it-ebooks.info/<wbr>book/36/](http://it-ebooks.info/book/36/)
