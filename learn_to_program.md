@@ -37,7 +37,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   *   some [C++ compilers](http://www.stroustrup.com/compilers.html)
 *   YouTube playlists of CppCon conference talks:  https://www.youtube.com/user/CppCon
 
-#####Containers
+##### Containers
  *  [Kubernetes Basics - Interactive](http://kubernetes.io/docs/tutorials/kubernetes-basics/) Official self-paced walkthrough tutorial
 
 ##### Go
@@ -148,6 +148,11 @@ Hi! Feel free to contribute new links and resources to this document. Please add
     * [Flaskr Tutorial](https://github.com/mjhea0/flaskr-tdd) - Intro to Flask, Test Driven Development, and jQuery
 *   [Merscythe: Adventures With the Codue] (http://www.speltechnologies.com) - An adventure story-based game for teaching Python programming to middle and high school students. Designed for accessibility and customizability.
 *   [Udacity - Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - In this free course you will learn the fundamentals of back-end web development and build a data-driven web app with Python.
+*   [Getting Started with SciPy](https://scipy.org/getting-started.html)
+    * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) - O'Reilly ebook
+    * SciPy Conference videos:  [SciPy 2016](https://www.youtube.com/watch?v=OB1reY6IX-o&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6), [EuroSciPy 2015](https://www.youtube.com/watch?v=q9E0csBVcwQ&list=PLYx7XA2nY5GeQCCugyvtnHMVLdhYlrRxH), [SciPy 2015](https://www.youtube.com/watch?v=xAoljeRJ3lU&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu), [EuroSciPy 2014](https://www.youtube.com/watch?v=DObmPAtuNw0&list=PLYx7XA2nY5GfavGAILg08spnrR7QWLimi), [SciPy 2014](https://www.youtube.com/watch?v=vWkgEddb4-A&list=PLYx7XA2nY5GfuhCvStxgbynFNrxr3VFog), [SciPy 2013](https://www.youtube.com/watch?v=NOm1zA_Cats&list=PLYx7XA2nY5GeTWcUQTbXVdllyp-Ie3r-y)
+        * [2015 Keynote: My Data Journey with Python](https://www.youtube.com/watch?v=kHdkFyGCxiY&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=16)
+        * [2015 Keynote: State of the Tools](https://www.youtube.com/watch?v=5GlNDD7qbP4&t=26s&list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&index=6)
 
 ##### Ruby
 *   [Codecademy - Ruby](http://www.codecademy.com/tracks/ruby)
@@ -211,6 +216,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [edX - Explore statistics with R](https://www.edx.org/course/explore-statistics-r-kix-kiexplorx-0)
 *   [Coursera - The Data Scientist’s Toolbox (John Hopkin's University)](https://www.coursera.org/course/datascitoolbox)
 *   [edX - Big Data in Education (Teachers College | Columbia University)](https://www.edx.org/course/big-data-education-teacherscollegex-bde1x)
+*   (*see SciPy in [Python](https://github.com/WomenWhoCode/guidelines-resources/blob/master/learn_to_program.md#python) section*)
 
 ##### Game Development
 *   [talk about Game Programming](https://www.youtube.com/watch?v=jDx-tj48iZI)
