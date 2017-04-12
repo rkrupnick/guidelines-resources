@@ -55,6 +55,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *	[How I Start: Haskell](http://howistart.org/posts/haskell/1)
 *	[Haskell Wikibook](https://en.wikibooks.org/wiki/Haskell)
 *	[Haskell Basics](https://www.schoolofhaskell.com/school/starting-with-haskell/introduction-to-haskell/1-haskell-basics)
+* [Learn You a Haskell](http://learnyouahaskell.com/)
+* [Real World Haskell](http://book.realworldhaskell.org/read/)
 
 ##### HTML/CSS
 *   [35 Useful CSS3 Tutorials To Boost Your Skills](http://www.tripwiremagazine.com/2012/06/css3-tutorials.html)
