@@ -180,9 +180,9 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [The Odin Project: Learn Web Development for Free using Ruby on Rails](http://www.theodinproject.com)
 
 ##### Scratch
-* [Learn Scratch in 10 minutes] (https://scratch.mit.edu/projects/31407152/)
-* [Scratch Lessons] (http://scratched.gse.harvard.edu/resources/scratch-lessons-shall-we-learn-scratch-programming-tweens)
-* [edX - Programming in Scratch] (https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
+* [Learn Scratch in 10 minutes](https://scratch.mit.edu/projects/31407152/)
+* [Scratch Lessons](http://scratched.gse.harvard.edu/resources/scratch-lessons-shall-we-learn-scratch-programming-tweens)
+* [edX - Programming in Scratch](https://www.edx.org/course/programming-scratch-harveymuddx-cs002x-1)
 
 ##### Selenium
 *   [Selenium Official Documentation](http://www.seleniumhq.org/docs/)
@@ -234,8 +234,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
     * [ogre3d.org](ogre3d.org) -- a library / graphics engine -- C++
     * bulletphysics -- a library -- C++
 *   Artwork available online under a [Creative Commons License](http://www.lostgarden.com/2007/03/lost-garden-license.html) (more fun to make game with cool graphics):
-    * Daniel Cook, Lost Garden
-        * http://www.lostgarden.com/search/label/free%20game%20graphics
+    * Daniel Cook, [Lost Garden](http://www.lostgarden.com/search/label/free%20game%20graphics)
 
 ##### Git
 *   [Code School - Try Git](https://try.github.io/levels/1/challenges/1) (in-browser)
@@ -294,7 +293,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 
 * [Ops School Curriculum](http://www.opsschool.org)
 
-#####Docker
+##### Docker
 * [Docker Tutorials and Labs](https://github.com/docker/labs) -- community-maintained in Docker's own GitHub account
 * Intro to Docker workshop (skip slides 26-29 and instead follow the [docs.docker.com](https://docs.docker.com/) setup guide):  http://slides.dckr.info:88/DockerSlides.pdf
 * Docker Orchestration workshop:  https://github.com/jpetazzo/orchestration-workshop
