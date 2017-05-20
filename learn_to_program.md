@@ -17,6 +17,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Free Code Camp] (https://www.freecodecamp.com/)
 *   [DevDocs](http://devdocs.io)
 *   [CS50x: Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+*   [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 
 ##### C/C++
 *   [C/C++ Reference](http://en.cppreference.com/w/)
@@ -82,6 +83,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
   *  [CodePath YouTube playlists](https://www.youtube.com/channel/UCvrvJyrx7ebh02wuOId11HA/playlists)
 *   [Objective-C Programming: The Big Nerd Ranch Guide (2nd Edition, Nov 2013)](http://www.amazon.com/Objective-C-Programming-Ranch-Guide-Guides/dp/032194206X) -- link to book on Amazon
 *   [iOS Programming: The Big Nerd Ranch Guide (5th Edition, Dec 2015)](http://www.amazon.com/iOS-Programming-Ranch-Edition-Guides/dp/0134390733) -- link to book on Amazon
+*   [50 iOS Interview Questions & Answers](https://medium.com/ios-os-x-development/ios-interview-questions-13840247a57a) (article)
 
 ##### Android
 * [Android Udacity Free Courses](https://www.udacity.com/courses/android)
@@ -126,6 +128,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 * [Square's Intro to D3.JS](http://square.github.io/intro-to-d3/)
 * [You Don't know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Practical Javascript](http://practicaljavascript.net) Free Javascript course, good for beginners to get a good grounding in the basics. Great analogies for arrays, objects & loops. Also has a companion [Facebook group](https://www.facebook.com/groups/514043678767094/) and a weekly online study/q&a session.
+* [JavaScript30](https://javascript30.com/) - Learn JavaScript by building 30 things in 30 days.
 
 ##### PHP
 * [Codecademy’s PHP course](https://www.codecademy.com/learn/php)
@@ -248,6 +251,8 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Understanding Git Concepts](http://www.sbf5.com/~cduan/technical/git/)
 *   [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 *   [Github Guides](https://guides.github.com/)
+*   [Git Happens - Jessica Kerr](https://guides.github.com/) - Great intro to Git. (YouTube)
+*   [Git Immersion](http://gitimmersion.com/) - Learn Git by doing it.
 
 ##### InfoSec
 * Training:
@@ -309,6 +314,7 @@ Hi! Feel free to contribute new links and resources to this document. Please add
 *   [Neural Networks for Machine Learning](https://www.coursera.org/course/neuralnets)
 *   [Stack Overflow](http://stackoverflow.com/)
 *   [CodeEval - Evaluations Made Easy](http://codeeval.com/)
+*   [Command-line Power User](https://commandlinepoweruser.com/) - Free course to learn command line workflows.
 
 ##### Schools
 *   [Khan Academy](http://www.khanacademy.org/#computer-science)
