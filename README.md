@@ -14,7 +14,7 @@ Mission, Vision, Key Initiative, Empowerment, and tentative press kit.
 
 This is a list of resources that we have gathered for study groups.
 
-## [Code of Conduct](code_of_conduct.md)
+## [Code of Conduct](https://womenwhocode.com/codeofconduct)
 
 This is the current recommended Code of Conduct for all WWC events.
 
