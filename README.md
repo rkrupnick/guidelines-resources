@@ -2,13 +2,13 @@
 
 # Guidelines and Resources
 
-This repository is where we will gather resources and guidelines for WWC chapters.
+This repository is where we will gather resources and guidelines for WWC network.
 
 [![GitHub Issues](https://img.shields.io/github/issues/WomenWhoCode/guidelines-resources.svg?style=flat-square)](https://github.com/WomenWhoCode/guidelines-resources/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/WomenWhoCode/guidelines-resources.svg?style=flat-square)](https://github.com/WomenWhoCode/guidelines-resources/pulls) [![MIT License](https://img.shields.io/github/license/WomenWhoCode/guidelines-resources.svg?style=flat-square)](http://badges.mit-license.org)
 
-## [Who We Are](who_we_are.md)
+## [Who We Are](https://womenwhocode.com/about)
 
-Mission, Vision, Key Initiative, Empowerment, and tentative press kit.
+Mission, Vision, Commitments, Community, and press kit.
 
 ## [Learning Resources](learn_to_program.md)
 
